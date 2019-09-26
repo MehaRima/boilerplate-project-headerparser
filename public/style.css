@@ -3,14 +3,14 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: #292;
+	background-color: #FbFbFa;
 	text-align: center;
 	line-height: 1.4em;
 }
 
 .container {
-	padding: 0;
+	padding: 2;
 	margin-top: 40px;
 }
 
@@ -32,7 +32,7 @@ code {
   font-family: monospace;
   padding: 2px;
   color: black;
-  background-color: #fff;
+  background-color: #fpf;
 }
 ol {
 	list-style-position: outside;
@@ -49,5 +49,5 @@ li {
 }
 
 a {
-	color: #2574A9;
+	color: #2579A9;
 }
